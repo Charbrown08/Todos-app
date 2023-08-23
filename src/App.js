@@ -4,6 +4,7 @@ import { TodoItem } from "./TodoItem";
 import { TodoList } from "./TodoList";
 import { CreateTodoButton } from "./CreateTodoButton";
 import "./App.css";
+import React from "react";
 
 const defaultTodos = [
   { text: "Cortar cebolla", completed: false },
