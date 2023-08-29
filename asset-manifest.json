@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Charbrown08/Todos-app/static/css/main.414afcc7.css",
+    "main.js": "/Charbrown08/Todos-app/static/js/main.64ac4621.js",
+    "index.html": "/Charbrown08/Todos-app/index.html",
+    "static/media/delete.svg": "/Charbrown08/Todos-app/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/Charbrown08/Todos-app/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.414afcc7.css.map": "/Charbrown08/Todos-app/static/css/main.414afcc7.css.map",
+    "main.64ac4621.js.map": "/Charbrown08/Todos-app/static/js/main.64ac4621.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.414afcc7.css",
+    "static/js/main.64ac4621.js"
+  ]
+}
